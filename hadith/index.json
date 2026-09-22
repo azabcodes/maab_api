@@ -1,0 +1,14 @@
+[
+  {"slug": "bukhari", "file": "sahih-bukhari.json"},
+  {"slug": "muslim", "file": "sahih-muslim.json"},
+  {"slug": "abudawud", "file": "sunan-abu-dawud.json"},
+  {"slug": "tirmidhi", "file": "jami-al-tirmidhi.json"},
+  {"slug": "nasai", "file": "sunan-al-nasai.json"},
+  {"slug": "ibnmajah", "file": "sunan-ibn-majah.json"},
+  {"slug": "malik", "file": "muwatta-malik.json"},
+  {"slug": "darimi", "file": "sunan-al-darimi.json"},
+  {"slug": "ahmed", "file": "musnad-ahmad.json"},
+  {"slug": "nawawi", "file": "forty-nawawi.json"},
+  {"slug": "qudsi", "file": "forty-qudsi.json"},
+  {"slug": "dehlawi", "file": "forty-dehlawi.json"}
+]
