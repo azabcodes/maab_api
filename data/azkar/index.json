@@ -1,0 +1,23 @@
+[
+  {"slug": "azkar_sabah", "file": "azkar_sabah.json"},
+  {"slug": "azkar_masaa", "file": "azkar_masaa.json"},
+  {"slug": "azkar_nawm", "file": "azkar_nawm.json"},
+  {"slug": "azkar_salah", "file": "azkar_salah.json"},
+  {"slug": "azkar_masjid", "file": "azkar_masjid.json"},
+  {"slug": "azkar_wudu", "file": "azkar_wudu.json"},
+  {"slug": "azkar_adhan", "file": "azkar_adhan.json"},
+  {"slug": "azkar_haj", "file": "azkar_haj.json"},
+  {"slug": "azkar_safar", "file": "azkar_safar.json"},
+  {"slug": "azkar_manzil", "file": "azkar_manzil.json"},
+  {"slug": "azkar_taam", "file": "azkar_taam.json"},
+  {"slug": "azkar_mawt", "file": "azkar_mawt.json"},
+  {"slug": "azkar_maa_yuqal", "file": "azkar_maa_yuqal.json"},
+  {"slug": "ruqyah", "file": "ruqyah.json"},
+  {"slug": "tasbeeh", "file": "tasbeeh.json"},
+  {"slug": "arbaeen", "file": "arbaeen.json"},
+  {"slug": "adiyah_general", "file": "adiyah_general.json"},
+  {"slug": "adiyah_mashhoora", "file": "adiyah_mashhoora.json"},
+  {"slug": "adiyah_hayah", "file": "adiyah_hayah.json"},
+  {"slug": "adiyah_hawalah", "file": "adiyah_hawalah.json"},
+  {"slug": "adiyah_mawsim", "file": "adiyah_mawsim.json"}
+]

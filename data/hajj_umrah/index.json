@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "steps",
+    "file": "steps.json",
+    "titleAr": "مناسك الحج والعمرة",
+    "titleEn": "Hajj & Umrah rituals",
+    "items": 10
+  },
+  {
+    "slug": "umrah-duas",
+    "file": "umrah_duas.json",
+    "titleAr": "أدعية العمرة",
+    "titleEn": "Umrah duas",
+    "items": 36
+  }
+]

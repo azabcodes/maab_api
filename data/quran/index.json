@@ -1,0 +1,1028 @@
+[
+  {
+    "slug": "001",
+    "file": "quran/001.json",
+    "index": 1,
+    "titleAr": "الفاتحة",
+    "titleEn": "Al-Fatiha",
+    "verses": 7,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "002",
+    "file": "quran/002.json",
+    "index": 2,
+    "titleAr": "البقرة",
+    "titleEn": "Al-Baqara",
+    "verses": 286,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "003",
+    "file": "quran/003.json",
+    "index": 3,
+    "titleAr": "آل عمران",
+    "titleEn": "Aal-Imran",
+    "verses": 200,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "004",
+    "file": "quran/004.json",
+    "index": 4,
+    "titleAr": "النساء",
+    "titleEn": "An-Nisaa'",
+    "verses": 176,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "005",
+    "file": "quran/005.json",
+    "index": 5,
+    "titleAr": "المائدة",
+    "titleEn": "Al-Ma'ida",
+    "verses": 120,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "006",
+    "file": "quran/006.json",
+    "index": 6,
+    "titleAr": "الأنعام",
+    "titleEn": "Al-An'am",
+    "verses": 165,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "007",
+    "file": "quran/007.json",
+    "index": 7,
+    "titleAr": "الأعراف",
+    "titleEn": "Al-A'raf",
+    "verses": 206,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "008",
+    "file": "quran/008.json",
+    "index": 8,
+    "titleAr": "الأنفال",
+    "titleEn": "Al-Anfal",
+    "verses": 75,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "009",
+    "file": "quran/009.json",
+    "index": 9,
+    "titleAr": "التوبة",
+    "titleEn": "Al-Tawba",
+    "verses": 129,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "010",
+    "file": "quran/010.json",
+    "index": 10,
+    "titleAr": "يونس",
+    "titleEn": "Yunus",
+    "verses": 109,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "011",
+    "file": "quran/011.json",
+    "index": 11,
+    "titleAr": "هود",
+    "titleEn": "Hud",
+    "verses": 123,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "012",
+    "file": "quran/012.json",
+    "index": 12,
+    "titleAr": "يوسف",
+    "titleEn": "Yusuf",
+    "verses": 111,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "013",
+    "file": "quran/013.json",
+    "index": 13,
+    "titleAr": "الرعد",
+    "titleEn": "Ar-Ra'd",
+    "verses": 43,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "014",
+    "file": "quran/014.json",
+    "index": 14,
+    "titleAr": "إبراهيم",
+    "titleEn": "Ibrahim",
+    "verses": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "015",
+    "file": "quran/015.json",
+    "index": 15,
+    "titleAr": "الحجر",
+    "titleEn": "Al-Hijr",
+    "verses": 99,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "016",
+    "file": "quran/016.json",
+    "index": 16,
+    "titleAr": "النحل",
+    "titleEn": "An-Nahl",
+    "verses": 128,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "017",
+    "file": "quran/017.json",
+    "index": 17,
+    "titleAr": "الإسراء",
+    "titleEn": "Al-Israa",
+    "verses": 111,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "018",
+    "file": "quran/018.json",
+    "index": 18,
+    "titleAr": "الكهف",
+    "titleEn": "Al-Kahf",
+    "verses": 110,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "019",
+    "file": "quran/019.json",
+    "index": 19,
+    "titleAr": "مريم",
+    "titleEn": "Maryam",
+    "verses": 98,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "020",
+    "file": "quran/020.json",
+    "index": 20,
+    "titleAr": "طه",
+    "titleEn": "Ta-Ha",
+    "verses": 135,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "021",
+    "file": "quran/021.json",
+    "index": 21,
+    "titleAr": "الأنبياء",
+    "titleEn": "Al-Anbiya",
+    "verses": 112,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "022",
+    "file": "quran/022.json",
+    "index": 22,
+    "titleAr": "الحج",
+    "titleEn": "Al-Hajj",
+    "verses": 78,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "023",
+    "file": "quran/023.json",
+    "index": 23,
+    "titleAr": "المؤمنون",
+    "titleEn": "Al-Muminun",
+    "verses": 118,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "024",
+    "file": "quran/024.json",
+    "index": 24,
+    "titleAr": "النور",
+    "titleEn": "An-Nur",
+    "verses": 64,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "025",
+    "file": "quran/025.json",
+    "index": 25,
+    "titleAr": "الفرقان",
+    "titleEn": "Al-Furqan",
+    "verses": 77,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "026",
+    "file": "quran/026.json",
+    "index": 26,
+    "titleAr": "الشعراء",
+    "titleEn": "Ash-Shuara",
+    "verses": 227,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "027",
+    "file": "quran/027.json",
+    "index": 27,
+    "titleAr": "النمل",
+    "titleEn": "An-Naml",
+    "verses": 93,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "028",
+    "file": "quran/028.json",
+    "index": 28,
+    "titleAr": "القصص",
+    "titleEn": "Al-Qasas",
+    "verses": 88,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "029",
+    "file": "quran/029.json",
+    "index": 29,
+    "titleAr": "العنكبوت",
+    "titleEn": "Al-Ankabut",
+    "verses": 69,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "030",
+    "file": "quran/030.json",
+    "index": 30,
+    "titleAr": "الروم",
+    "titleEn": "Ar-Rum",
+    "verses": 60,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "031",
+    "file": "quran/031.json",
+    "index": 31,
+    "titleAr": "لقمان",
+    "titleEn": "Luqman",
+    "verses": 34,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "032",
+    "file": "quran/032.json",
+    "index": 32,
+    "titleAr": "السجدة",
+    "titleEn": "As-Sajdah",
+    "verses": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "033",
+    "file": "quran/033.json",
+    "index": 33,
+    "titleAr": "الأحزاب",
+    "titleEn": "Al-Ahzab",
+    "verses": 73,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "034",
+    "file": "quran/034.json",
+    "index": 34,
+    "titleAr": "سبأ",
+    "titleEn": "Saba",
+    "verses": 54,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "035",
+    "file": "quran/035.json",
+    "index": 35,
+    "titleAr": "فاطر",
+    "titleEn": "Fatir",
+    "verses": 45,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "036",
+    "file": "quran/036.json",
+    "index": 36,
+    "titleAr": "يس",
+    "titleEn": "Yasin",
+    "verses": 83,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "037",
+    "file": "quran/037.json",
+    "index": 37,
+    "titleAr": "الصافات",
+    "titleEn": "As-Saffat",
+    "verses": 182,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "038",
+    "file": "quran/038.json",
+    "index": 38,
+    "titleAr": "ص",
+    "titleEn": "Sad",
+    "verses": 88,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "039",
+    "file": "quran/039.json",
+    "index": 39,
+    "titleAr": "الزمر",
+    "titleEn": "Az-Zumar",
+    "verses": 75,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "040",
+    "file": "quran/040.json",
+    "index": 40,
+    "titleAr": "غافر",
+    "titleEn": "Ghafir",
+    "verses": 85,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "041",
+    "file": "quran/041.json",
+    "index": 41,
+    "titleAr": "فصلت",
+    "titleEn": "Fussilat",
+    "verses": 54,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "042",
+    "file": "quran/042.json",
+    "index": 42,
+    "titleAr": "الشورى",
+    "titleEn": "Ash-Shura",
+    "verses": 53,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "043",
+    "file": "quran/043.json",
+    "index": 43,
+    "titleAr": "الزخرف",
+    "titleEn": "Az-Zukhruf",
+    "verses": 89,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "044",
+    "file": "quran/044.json",
+    "index": 44,
+    "titleAr": "الدخان",
+    "titleEn": "Ad-Dukhan",
+    "verses": 59,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "045",
+    "file": "quran/045.json",
+    "index": 45,
+    "titleAr": "الجاثية",
+    "titleEn": "Al-Jathiya",
+    "verses": 37,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "046",
+    "file": "quran/046.json",
+    "index": 46,
+    "titleAr": "الأحقاف",
+    "titleEn": "Al-Ahqaf",
+    "verses": 35,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "047",
+    "file": "quran/047.json",
+    "index": 47,
+    "titleAr": "محمد",
+    "titleEn": "Muhammad",
+    "verses": 38,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "048",
+    "file": "quran/048.json",
+    "index": 48,
+    "titleAr": "الفتح",
+    "titleEn": "Al-Fath",
+    "verses": 29,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "049",
+    "file": "quran/049.json",
+    "index": 49,
+    "titleAr": "الحجرات",
+    "titleEn": "Al-Hujurat",
+    "verses": 18,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "050",
+    "file": "quran/050.json",
+    "index": 50,
+    "titleAr": "ق",
+    "titleEn": "Qaf",
+    "verses": 45,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "051",
+    "file": "quran/051.json",
+    "index": 51,
+    "titleAr": "الذاريات",
+    "titleEn": "Az-Zariyat",
+    "verses": 60,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "052",
+    "file": "quran/052.json",
+    "index": 52,
+    "titleAr": "الطور",
+    "titleEn": "At-Tur",
+    "verses": 49,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "053",
+    "file": "quran/053.json",
+    "index": 53,
+    "titleAr": "النجم",
+    "titleEn": "An-Najm",
+    "verses": 62,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "054",
+    "file": "quran/054.json",
+    "index": 54,
+    "titleAr": "القمر",
+    "titleEn": "Al-Qamar",
+    "verses": 55,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "055",
+    "file": "quran/055.json",
+    "index": 55,
+    "titleAr": "الرحمن",
+    "titleEn": "Ar-Rahman",
+    "verses": 78,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "056",
+    "file": "quran/056.json",
+    "index": 56,
+    "titleAr": "الواقعة",
+    "titleEn": "Al-Waqia",
+    "verses": 96,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "057",
+    "file": "quran/057.json",
+    "index": 57,
+    "titleAr": "الحديد",
+    "titleEn": "Al-Hadid",
+    "verses": 29,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "058",
+    "file": "quran/058.json",
+    "index": 58,
+    "titleAr": "المجادلة",
+    "titleEn": "Al-Mujadilah",
+    "verses": 22,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "059",
+    "file": "quran/059.json",
+    "index": 59,
+    "titleAr": "الحشر",
+    "titleEn": "Al-Hashr",
+    "verses": 24,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "060",
+    "file": "quran/060.json",
+    "index": 60,
+    "titleAr": "الممتحنة",
+    "titleEn": "Al-Mumtahinah",
+    "verses": 13,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "061",
+    "file": "quran/061.json",
+    "index": 61,
+    "titleAr": "الصف",
+    "titleEn": "As-Saff",
+    "verses": 14,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "062",
+    "file": "quran/062.json",
+    "index": 62,
+    "titleAr": "الجمعة",
+    "titleEn": "Al-Jumu'ah",
+    "verses": 11,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "063",
+    "file": "quran/063.json",
+    "index": 63,
+    "titleAr": "المنافقون",
+    "titleEn": "Al-Munafiqun",
+    "verses": 11,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "064",
+    "file": "quran/064.json",
+    "index": 64,
+    "titleAr": "التغابن",
+    "titleEn": "At-Taghabun",
+    "verses": 18,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "065",
+    "file": "quran/065.json",
+    "index": 65,
+    "titleAr": "الطلاق",
+    "titleEn": "At-Talaq",
+    "verses": 12,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "066",
+    "file": "quran/066.json",
+    "index": 66,
+    "titleAr": "التحريم",
+    "titleEn": "At-Tahrim",
+    "verses": 12,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "067",
+    "file": "quran/067.json",
+    "index": 67,
+    "titleAr": "الملك",
+    "titleEn": "Al-Mulk",
+    "verses": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "068",
+    "file": "quran/068.json",
+    "index": 68,
+    "titleAr": "القلم",
+    "titleEn": "Al-Qalam",
+    "verses": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "069",
+    "file": "quran/069.json",
+    "index": 69,
+    "titleAr": "الحاقة",
+    "titleEn": "Al-Haqqah",
+    "verses": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "070",
+    "file": "quran/070.json",
+    "index": 70,
+    "titleAr": "المعارج",
+    "titleEn": "Al-Ma'arij",
+    "verses": 44,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "071",
+    "file": "quran/071.json",
+    "index": 71,
+    "titleAr": "نوح",
+    "titleEn": "Nuh",
+    "verses": 28,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "072",
+    "file": "quran/072.json",
+    "index": 72,
+    "titleAr": "الجن",
+    "titleEn": "Al-Jinn",
+    "verses": 28,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "073",
+    "file": "quran/073.json",
+    "index": 73,
+    "titleAr": "المزمل",
+    "titleEn": "Al-Muzzammil",
+    "verses": 20,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "074",
+    "file": "quran/074.json",
+    "index": 74,
+    "titleAr": "المدثر",
+    "titleEn": "Al-Muddaththir",
+    "verses": 56,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "075",
+    "file": "quran/075.json",
+    "index": 75,
+    "titleAr": "القيامة",
+    "titleEn": "Al-Qiyamah",
+    "verses": 40,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "076",
+    "file": "quran/076.json",
+    "index": 76,
+    "titleAr": "الإنسان",
+    "titleEn": "Al-Insan",
+    "verses": 31,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "077",
+    "file": "quran/077.json",
+    "index": 77,
+    "titleAr": "المرسلات",
+    "titleEn": "Al-Mursalat",
+    "verses": 50,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "078",
+    "file": "quran/078.json",
+    "index": 78,
+    "titleAr": "النبأ",
+    "titleEn": "An-Naba",
+    "verses": 40,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "079",
+    "file": "quran/079.json",
+    "index": 79,
+    "titleAr": "النازعات",
+    "titleEn": "An-Naziat",
+    "verses": 46,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "080",
+    "file": "quran/080.json",
+    "index": 80,
+    "titleAr": "عبس",
+    "titleEn": "Abasa",
+    "verses": 42,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "081",
+    "file": "quran/081.json",
+    "index": 81,
+    "titleAr": "التكوير",
+    "titleEn": "At-Takwir",
+    "verses": 29,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "082",
+    "file": "quran/082.json",
+    "index": 82,
+    "titleAr": "الإنفطار",
+    "titleEn": "Al-Infitar",
+    "verses": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "083",
+    "file": "quran/083.json",
+    "index": 83,
+    "titleAr": "المطففين",
+    "titleEn": "Al-Mutaffifin",
+    "verses": 36,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "084",
+    "file": "quran/084.json",
+    "index": 84,
+    "titleAr": "الإنشقاق",
+    "titleEn": "Al-Inshiqaq",
+    "verses": 25,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "085",
+    "file": "quran/085.json",
+    "index": 85,
+    "titleAr": "البروج",
+    "titleEn": "Al-Buruj",
+    "verses": 22,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "086",
+    "file": "quran/086.json",
+    "index": 86,
+    "titleAr": "الطارق",
+    "titleEn": "At-Tariq",
+    "verses": 17,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "087",
+    "file": "quran/087.json",
+    "index": 87,
+    "titleAr": "الأعلى",
+    "titleEn": "Al-Ala",
+    "verses": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "088",
+    "file": "quran/088.json",
+    "index": 88,
+    "titleAr": "الغاشية",
+    "titleEn": "Al-Ghashiyah",
+    "verses": 26,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "089",
+    "file": "quran/089.json",
+    "index": 89,
+    "titleAr": "الفجر",
+    "titleEn": "Al-Fajr",
+    "verses": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "090",
+    "file": "quran/090.json",
+    "index": 90,
+    "titleAr": "البلد",
+    "titleEn": "Al-Balad",
+    "verses": 20,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "091",
+    "file": "quran/091.json",
+    "index": 91,
+    "titleAr": "الشمس",
+    "titleEn": "Ash-Shams",
+    "verses": 15,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "092",
+    "file": "quran/092.json",
+    "index": 92,
+    "titleAr": "الليل",
+    "titleEn": "Al-Lail",
+    "verses": 21,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "093",
+    "file": "quran/093.json",
+    "index": 93,
+    "titleAr": "الضحى",
+    "titleEn": "Ad-Duha",
+    "verses": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "094",
+    "file": "quran/094.json",
+    "index": 94,
+    "titleAr": "الشرح",
+    "titleEn": "Ash-Sharh",
+    "verses": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "095",
+    "file": "quran/095.json",
+    "index": 95,
+    "titleAr": "التين",
+    "titleEn": "At-Tin",
+    "verses": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "096",
+    "file": "quran/096.json",
+    "index": 96,
+    "titleAr": "العلق",
+    "titleEn": "Al-Alaq",
+    "verses": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "097",
+    "file": "quran/097.json",
+    "index": 97,
+    "titleAr": "القدر",
+    "titleEn": "Al-Qadr",
+    "verses": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "098",
+    "file": "quran/098.json",
+    "index": 98,
+    "titleAr": "البينة",
+    "titleEn": "Al-Bayinah",
+    "verses": 8,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "099",
+    "file": "quran/099.json",
+    "index": 99,
+    "titleAr": "الزلزلة",
+    "titleEn": "Az-Zalzalah",
+    "verses": 8,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "100",
+    "file": "quran/100.json",
+    "index": 100,
+    "titleAr": "العاديات",
+    "titleEn": "Al-Adiyat",
+    "verses": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "101",
+    "file": "quran/101.json",
+    "index": 101,
+    "titleAr": "القارعة",
+    "titleEn": "Al-Qariah",
+    "verses": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "102",
+    "file": "quran/102.json",
+    "index": 102,
+    "titleAr": "التكاثر",
+    "titleEn": "Al-Takathur",
+    "verses": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "103",
+    "file": "quran/103.json",
+    "index": 103,
+    "titleAr": "العصر",
+    "titleEn": "Al-Asr",
+    "verses": 3,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "104",
+    "file": "quran/104.json",
+    "index": 104,
+    "titleAr": "الهمزة",
+    "titleEn": "Al-Humazah",
+    "verses": 9,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "105",
+    "file": "quran/105.json",
+    "index": 105,
+    "titleAr": "الفيل",
+    "titleEn": "Al-Fil",
+    "verses": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "106",
+    "file": "quran/106.json",
+    "index": 106,
+    "titleAr": "قريش",
+    "titleEn": "Quraish",
+    "verses": 4,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "107",
+    "file": "quran/107.json",
+    "index": 107,
+    "titleAr": "الماعون",
+    "titleEn": "Al-Ma'un",
+    "verses": 7,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "108",
+    "file": "quran/108.json",
+    "index": 108,
+    "titleAr": "الكوثر",
+    "titleEn": "Al-Kauthar",
+    "verses": 3,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "109",
+    "file": "quran/109.json",
+    "index": 109,
+    "titleAr": "الكافرون",
+    "titleEn": "Al-Kafirun",
+    "verses": 6,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "110",
+    "file": "quran/110.json",
+    "index": 110,
+    "titleAr": "النصر",
+    "titleEn": "An-Nasr",
+    "verses": 3,
+    "type": "Madaniyah"
+  },
+  {
+    "slug": "111",
+    "file": "quran/111.json",
+    "index": 111,
+    "titleAr": "المسد",
+    "titleEn": "Al-Masad",
+    "verses": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "112",
+    "file": "quran/112.json",
+    "index": 112,
+    "titleAr": "الإخلاص",
+    "titleEn": "Al-Ikhlas",
+    "verses": 4,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "113",
+    "file": "quran/113.json",
+    "index": 113,
+    "titleAr": "الفلق",
+    "titleEn": "Al-Falaq",
+    "verses": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "slug": "114",
+    "file": "quran/114.json",
+    "index": 114,
+    "titleAr": "الناس",
+    "titleEn": "An-Nas",
+    "verses": 6,
+    "type": "Makkiyah"
+  }
+]

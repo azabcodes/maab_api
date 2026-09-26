@@ -1,0 +1,347 @@
+{
+  "id": 12,
+  "metadata": {
+    "id": 12,
+    "length": 40,
+    "arabic": {
+      "title": "أربعون ولي الله الدهلوي",
+      "author": "الشاه ولي الدين الدهلوي",
+      "introduction": ""
+    },
+    "english": {
+      "title": "The Forty Hadith of Shah Waliullah",
+      "author": "Shah Waliullah Dahlawi",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 0,
+      "bookId": 12,
+      "arabic": "أربعون شاه ولي الله الدهلوي",
+      "english": "Forty Hadith of Shah Waliullah Dehlawi"
+    }
+  ],
+  "hadiths": [
+    {
+      "id": 41026,
+      "idInBook": 1,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَيْسَ الْخَبَرُ كَالْمُعَايَنَةِ",
+      "citation": "1"
+    },
+    {
+      "id": 41027,
+      "idInBook": 2,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْحَرْبُ خُدَعَةٌ",
+      "citation": "2"
+    },
+    {
+      "id": 41028,
+      "idInBook": 3,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمُسْلِمُ مِرْآةُ الْمُسْلِمِ",
+      "citation": "3"
+    },
+    {
+      "id": 41029,
+      "idInBook": 4,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمُسْتَشَارُ مُؤتَمَنٌ",
+      "citation": "4"
+    },
+    {
+      "id": 41030,
+      "idInBook": 5,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الدَّالُّ عَلَى الْخَيْرِ كَفَاعِلِهِ",
+      "citation": "5"
+    },
+    {
+      "id": 41031,
+      "idInBook": 6,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "إِسْتَعِيْنُوْا عَلَى الْحَوَائِجِ بِالْكِتْمَانِ",
+      "citation": "6"
+    },
+    {
+      "id": 41032,
+      "idInBook": 7,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "إِتَّقُوْا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+      "citation": "7"
+    },
+    {
+      "id": 41033,
+      "idInBook": 8,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الدُّنْيَا سِجْنُ الْمُؤمِنِ وَ جَنَّةُ الْكَافِرِ",
+      "citation": "8"
+    },
+    {
+      "id": 41034,
+      "idInBook": 9,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْحَيَاءُ خَيْرٌ كُلُّهُ",
+      "citation": "9"
+    },
+    {
+      "id": 41035,
+      "idInBook": 10,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "عِدَةُ الْمُؤمِنِ كَاَخْذِ الْكَفِّ",
+      "citation": "10"
+    },
+    {
+      "id": 41036,
+      "idInBook": 11,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَا يَحِلُّ لِمُؤمِنٍ اَنْ يَّجُهْرَ أخَاهُ فَوقَ ثَلَاثَةِ أيَّامٍ",
+      "citation": "11"
+    },
+    {
+      "id": 41037,
+      "idInBook": 12,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَيْسَ مِنَّا مَنْ غَشَّنَا",
+      "citation": "12"
+    },
+    {
+      "id": 41038,
+      "idInBook": 13,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَا قَلَّ وَكَفَى خَيْرٌ مِمَّا كَثُرَ وَأَلْهَى",
+      "citation": "13"
+    },
+    {
+      "id": 41039,
+      "idInBook": 14,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الرَّاجِعُ فِيْ هِبَتِهِ كَالرَّاجِعِ فِيْ قَيْئِهِ",
+      "citation": "14"
+    },
+    {
+      "id": 41040,
+      "idInBook": 15,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْبَلَاءُ مُوَكِّلٌ بِالْمَنْطِقِ",
+      "citation": "15"
+    },
+    {
+      "id": 41041,
+      "idInBook": 16,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "النَّاسُ كَأسْنَانِ الْمُشْطِ",
+      "citation": "16"
+    },
+    {
+      "id": 41042,
+      "idInBook": 17,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْغِنَى غِنَى النَّفْسِ",
+      "citation": "17"
+    },
+    {
+      "id": 41043,
+      "idInBook": 18,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْسَّعِيْدُ مَنْ وُّعِظَ بِغَيْرِهِ",
+      "citation": "18"
+    },
+    {
+      "id": 41044,
+      "idInBook": 19,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "وَ إِنَّ مِنَ الشِّعْرِ لَحِكْمَةً وَاِنَّ مِنَ الْبَيَانِ لَسِحْرًا",
+      "citation": "19"
+    },
+    {
+      "id": 41045,
+      "idInBook": 20,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "عَفْوُ الْمُلُوْكِ إِبْقَاءٌ لِلْمُلْكِ",
+      "citation": "20"
+    },
+    {
+      "id": 41046,
+      "idInBook": 21,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَلْمَرْءُ مَعَ مَنْ أَحَبَّ",
+      "citation": "21"
+    },
+    {
+      "id": 41047,
+      "idInBook": 22,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَا هَلَكَ إمْرُؤٌ عَرَفَ قَدْرَهُ",
+      "citation": "22"
+    },
+    {
+      "id": 41048,
+      "idInBook": 23,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَلْوَلَدُ لِلْفِرَاشِ وَ لِلْعَاهِرِ الْحَجَرُ",
+      "citation": "23"
+    },
+    {
+      "id": 41049,
+      "idInBook": 24,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْيَدُ الْعُلْيَا خَيْرٌ مِّنَ الْيَدِ السُّفْلَى",
+      "citation": "24"
+    },
+    {
+      "id": 41050,
+      "idInBook": 25,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَا شَكَرَ اللهَ مَنْ لَّا يَشْكُرُ النَّاسَ",
+      "citation": "25"
+    },
+    {
+      "id": 41051,
+      "idInBook": 26,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "حُبُّكَ الشَّيْءَ يُعْمِيْ وَ يُصِمُّ",
+      "citation": "26"
+    },
+    {
+      "id": 41052,
+      "idInBook": 27,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "جُبِلَتِ الْقُلُوبُ عَلى حُبَّ مَنْ اَحْسَنَ اِلَيْهَا وَ بُغْضِ مَنْ اَسَاءَ اِلَيْهَا",
+      "citation": "27"
+    },
+    {
+      "id": 41053,
+      "idInBook": 28,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْتَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ",
+      "citation": "28"
+    },
+    {
+      "id": 41054,
+      "idInBook": 29,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الشَّاهِدُ يَرَى مَا لَا يَرَاهُ الْغَائِبُ",
+      "citation": "29"
+    },
+    {
+      "id": 41055,
+      "idInBook": 30,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اِذا جَاءَكُمْ كَرِيْمُ قَوْمٍ فَاَكْرِمُوهُ",
+      "citation": "30"
+    },
+    {
+      "id": 41056,
+      "idInBook": 31,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْيَمِينُ الْفَاجِرَةُ تَدَعُ الدِّيَارَ الْبَلَاقِعَ",
+      "citation": "31"
+    },
+    {
+      "id": 41057,
+      "idInBook": 32,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيْدٌ",
+      "citation": "32"
+    },
+    {
+      "id": 41058,
+      "idInBook": 33,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْاَعْمَالُ بِالنِّيَّةِ",
+      "citation": "33"
+    },
+    {
+      "id": 41059,
+      "idInBook": 34,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "سَيِّدُ الْقَوْمِ خَادِمُهُمْ",
+      "citation": "34"
+    },
+    {
+      "id": 41060,
+      "idInBook": 35,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "خَيْرُ الْأُمُوْرِ أَوْسَطُهَا",
+      "citation": "35"
+    },
+    {
+      "id": 41061,
+      "idInBook": 36,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَللَّهُمَّ بَارِكْ فِيْ أُمَّتِيْ فِي بُكُوْرِهَا يَوْمَ الْخَمِيْسِ",
+      "citation": "36"
+    },
+    {
+      "id": 41062,
+      "idInBook": 37,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "كَادَ الْفَقْرُ أَنْ يَكُوْنَ كُفْرًا",
+      "citation": "37"
+    },
+    {
+      "id": 41063,
+      "idInBook": 38,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْسَّفَرُ قِطْعَةٌ مِّنَ الْعَذَابِ",
+      "citation": "38"
+    },
+    {
+      "id": 41064,
+      "idInBook": 39,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "خَيْرُ زَّادِ الْتَّقْوَى",
+      "citation": "39"
+    },
+    {
+      "id": 41065,
+      "idInBook": 40,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمَجَالِسُ بِالْاَمَانَةِ",
+      "citation": "40"
+    }
+  ]
+}

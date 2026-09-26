@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ihram",
+    "titleAr": "الإحرام",
+    "titleEn": "Ihram",
+    "day": "Before Hajj",
+    "description": "Entering the sacred state by making intention and wearing the prescribed clothing.",
+    "duas": [
+      {
+        "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ",
+        "transliteration": "Labbayk Allāhumma labbayk, labbayk lā sharīka laka labbayk, inna al-ḥamda wa'n-ni'mata laka wa'l-mulk, lā sharīka lak",
+        "source": "Sahih Bukhari 1549, Sahih Muslim 1184"
+      }
+    ]
+  },
+  {
+    "id": "tawaf",
+    "titleAr": "طواف",
+    "titleEn": "Tawaf",
+    "day": "Day 1 & Final",
+    "description": "Circumambulating the Ka'bah seven times in an anti-clockwise direction.",
+    "duas": [
+      {
+        "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+        "transliteration": "Bismillāhi wa Allāhu Akbar",
+        "source": "Sahih Muslim 1218"
+      },
+      {
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "transliteration": "Rabbanā ātinā fī ad-dunyā ḥasanah wa fī al-ākhirati ḥasanah wa qinā 'adhāb an-nār",
+        "source": "Quran 2:201, Sahih Muslim 1218"
+      }
+    ]
+  },
+  {
+    "id": "sai",
+    "titleAr": "سعي",
+    "titleEn": "Sa'i",
+    "day": "Day 1 & Final",
+    "description": "Walking seven times between the hills of Safa and Marwa.",
+    "duas": [
+      {
+        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ",
+        "transliteration": "Inna aṣ-Ṣafā wa'l-Marwata min sha'ā'ir Allāh",
+        "source": "Quran 2:158"
+      }
+    ]
+  },
+  {
+    "id": "mina-day1",
+    "titleAr": "يوم التروية",
+    "titleEn": "Day at Mina",
+    "day": "Day 1 (8th Dhul Hijjah)",
+    "description": "Pilgrims travel to Mina and spend the day and night in preparation for Arafah.",
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ",
+        "transliteration": "Allāhumma innī as'aluka khayra hādhā al-yawm",
+        "source": "General supplication"
+      }
+    ]
+  },
+  {
+    "id": "arafah",
+    "titleAr": "يوم عرفة",
+    "titleEn": "Day of Arafah",
+    "day": "Day 2 (9th Dhul Hijjah)",
+    "description": "Standing (Wuquf) at the plain of Arafah from noon until sunset - the essential pillar of Hajj.",
+    "duas": [
+      {
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "Lā ilāha illā Allāhu waḥdahu lā sharīka lah, lahu'l-mulku wa lahu'l-ḥamdu wa huwa 'alā kulli shay'in qadīr",
+        "source": "Tirmidhi 3585"
+      }
+    ]
+  },
+  {
+    "id": "muzdalifah",
+    "titleAr": "المبيت في مزدلفة",
+    "titleEn": "Night at Muzdalifah",
+    "day": "Night of 9th-10th",
+    "description": "After sunset at Arafah, pilgrims travel to Muzdalifah to pray and collect pebbles for stoning.",
+    "duas": [
+      {
+        "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَاهْدِنِي السَّبِيلَ الْأَقْوَمَ",
+        "transliteration": "Rabbi'ghfir wa'rḥam wa'hdinī as-sabīl al-aqwam",
+        "source": "Various authentic collections"
+      }
+    ]
+  },
+  {
+    "id": "jamarat",
+    "titleAr": "رمي الجمرات",
+    "titleEn": "Stoning the Jamarat",
+    "day": "Days 3-5 (10th-13th)",
+    "description": "Throwing pebbles at three stone pillars representing Satan's temptations.",
+    "duas": [
+      {
+        "arabic": "اللَّهُ أَكْبَرُ",
+        "transliteration": "Allāhu Akbar",
+        "source": "Sahih Bukhari 1750"
+      },
+      {
+        "arabic": "اللَّهُمَّ اجْعَلْهُ حَجًّا مَبْرُورًا وَسَعْيًا مَشْكُورًا وَذَنْبًا مَغْفُورًا",
+        "transliteration": "Allāhumma'j'alhu ḥajjan mabrūran wa sa'yan mashkūran wa dhanban maghfūran",
+        "source": "Various collections"
+      }
+    ]
+  },
+  {
+    "id": "sacrifice",
+    "titleAr": "الأضحية",
+    "titleEn": "Animal Sacrifice (Qurbani)",
+    "day": "Day 3 (10th Dhul Hijjah)",
+    "description": "Offering a sacrifice to Allah, commemorating Ibrahim's willingness to sacrifice Ismail.",
+    "duas": [
+      {
+        "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ، اللَّهُمَّ هَذَا مِنْكَ وَلَكَ",
+        "transliteration": "Bismillāhi wa Allāhu Akbar, Allāhumma hādhā minka wa lak",
+        "source": "Abu Dawud 2795"
+      }
+    ]
+  },
+  {
+    "id": "halq",
+    "titleAr": "الحلق والتقصير",
+    "titleEn": "Shaving/Trimming Hair",
+    "day": "Day 3 (10th Dhul Hijjah)",
+    "description": "Men shave their heads completely (Halq) or trim the hair; women cut a fingertip's length.",
+    "duas": [
+      {
+        "arabic": "الْحَمْدُ لِلَّهِ عَلَى مَا هَدَانَا وَأَنْعَمَ عَلَيْنَا",
+        "transliteration": "Al-ḥamdu lillāhi 'alā mā hadānā wa an'ama 'alaynā",
+        "source": "General practice"
+      }
+    ]
+  },
+  {
+    "id": "tawaf-ifadah",
+    "titleAr": "طواف الإفاضة",
+    "titleEn": "Tawaf al-Ifadah",
+    "day": "Day 3 (10th Dhul Hijjah)",
+    "description": "The essential Tawaf performed after leaving Mina, also known as Tawaf al-Ziyarah.",
+    "duas": [
+      {
+        "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+        "transliteration": "Bismillahi wa Allahu Akbar",
+        "source": "Sahih Muslim 1218"
+      }
+    ]
+  }
+]
