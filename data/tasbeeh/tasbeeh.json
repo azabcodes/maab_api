@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "id": "subhanallah",
+      "text": "سبحان الله"
+    },
+    {
+      "id": "alhamdulillah",
+      "text": "الحمد لله"
+    },
+    {
+      "id": "allahuakbar",
+      "text": "الله أكبر"
+    },
+    {
+      "id": "lailahaillallah",
+      "text": "لا إله إلا الله"
+    },
+    {
+      "id": "astaghfirullah",
+      "text": "أستغفر الله"
+    },
+    {
+      "id": "subhanallah_wabihamdih",
+      "text": "سبحان الله وبحمده"
+    },
+    {
+      "id": "subhanallahilazim",
+      "text": "سبحان الله العظيم"
+    },
+    {
+      "id": "hawqala",
+      "text": "لا حول ولا قوة إلا بالله"
+    },
+    {
+      "id": "salawat",
+      "text": "اللهم صل وسلم على نبينا محمد"
+    },
+    {
+      "id": "hasbiyallah",
+      "text": "حسبي الله لا إله إلا هو عليه توكلت"
+    },
+    {
+      "id": "tahlil_tamam",
+      "text": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير"
+    },
+    {
+      "id": "sayyid_istighfar",
+      "text": "اللهم أنت ربي لا إله إلا أنت خلقتني وأنا عبدك"
+    },
+    {
+      "id": "subhanallah_bihamdihi_adada_khalqihi",
+      "text": "سبحان الله وبحمده عدد خلقه ورضا نفسه وزنة عرشه ومداد كلماته"
+    }
+  ]
+}

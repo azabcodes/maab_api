@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "umdat-al-fiqh",
+    "file": "umdat-al-fiqh.json",
+    "title": "عمدة الفقه",
+    "author": "موفق الدين عبد الله بن أحمد بن قدامة المقدسي",
+    "chaptersCount": 27,
+    "hadithsCount": 205
+  },
+  {
+    "slug": "zad-al-mustaqni",
+    "file": "zad-al-mustaqni.json",
+    "title": "زاد المستقنع في اختصار المقنع",
+    "author": "شرف الدين أبو النجا موسى بن أحمد الحجاوي",
+    "chaptersCount": 28,
+    "hadithsCount": 158
+  },
+  {
+    "slug": "manar-al-sabil",
+    "file": "manar-al-sabil.json",
+    "title": "منار السبيل في شرح الدليل",
+    "author": "إبراهيم بن محمد بن سالم بن ضويان",
+    "chaptersCount": 37,
+    "hadithsCount": 344
+  },
+  {
+    "slug": "al-mughni",
+    "file": "al-mughni.json",
+    "title": "المغني",
+    "author": "موفق الدين عبد الله بن أحمد بن قدامة المقدسي",
+    "chaptersCount": 70,
+    "hadithsCount": 1477
+  }
+]

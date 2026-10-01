@@ -1,0 +1,13 @@
+[
+  { "slug": "pillars-islam", "file": "pillars-islam.json" },
+  { "slug": "pillars-iman", "file": "pillars-iman.json" },
+  { "slug": "salah", "file": "salah.json" },
+  { "slug": "wudu", "file": "wudu.json" },
+  { "slug": "sawm", "file": "sawm.json" },
+  { "slug": "zakah", "file": "zakah.json" },
+  { "slug": "hajj", "file": "hajj.json" },
+  { "slug": "umrah", "file": "umrah.json" },
+  { "slug": "manners", "file": "manners.json" },
+  { "slug": "halal-haram", "file": "halal-haram.json" },
+  { "slug": "occasions", "file": "occasions.json" }
+]
