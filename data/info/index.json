@@ -10,11 +10,5 @@
     "file": "prophets.json",
     "titleAr": "الأنبياء عليهم السلام",
     "items": 25
-  },
-  {
-    "slug": "arkan",
-    "file": "arkan.json",
-    "titleAr": "الأركان",
-    "items": 6
   }
 ]

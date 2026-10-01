@@ -7,19 +7,13 @@
       "title": "أربعون ولي الله الدهلوي",
       "author": "الشاه ولي الدين الدهلوي",
       "introduction": ""
-    },
-    "english": {
-      "title": "The Forty Hadith of Shah Waliullah",
-      "author": "Shah Waliullah Dahlawi",
-      "introduction": ""
     }
   },
   "chapters": [
     {
       "id": 0,
       "bookId": 12,
-      "arabic": "أربعون شاه ولي الله الدهلوي",
-      "english": "Forty Hadith of Shah Waliullah Dehlawi"
+      "arabic": "أربعون شاه ولي الله الدهلوي"
     }
   ],
   "hadiths": [
