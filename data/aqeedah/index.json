@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "usul-as-sunnah",
+    "file": "usul-as-sunnah.json",
+    "title": "أصول السنة",
+    "author": "الإمام أحمد بن حنبل",
+    "chaptersCount": 27,
+    "hadithsCount": 27
+  },
+  {
+    "slug": "lumat-al-itiqad",
+    "file": "lumat-al-itiqad.json",
+    "title": "لمعة الاعتقاد الهادي إلى سبيل الرشاد",
+    "author": "موفق الدين عبد الله بن أحمد بن قدامة المقدسي",
+    "chaptersCount": 13,
+    "hadithsCount": 14
+  },
+  {
+    "slug": "sharh-lumat-al-itiqad",
+    "file": "sharh-lumat-al-itiqad.json",
+    "title": "شرح لمعة الاعتقاد",
+    "author": "محمد بن صالح بن محمد العثيمين",
+    "chaptersCount": 19,
+    "hadithsCount": 48
+  },
+  {
+    "slug": "al-aqeedah-al-wasitiyyah",
+    "file": "al-aqeedah-al-wasitiyyah.json",
+    "title": "العقيدة الواسطية",
+    "author": "تقي الدين أبو العباس أحمد بن عبد الحليم بن تيمية",
+    "chaptersCount": 56,
+    "hadithsCount": 56
+  },
+  {
+    "slug": "kitab-at-tawhid",
+    "file": "kitab-at-tawhid.json",
+    "title": "كتاب التوحيد الذي هو حق الله على العبيد",
+    "author": "محمد بن عبد الوهاب بن سليمان التميمي",
+    "chaptersCount": 67,
+    "hadithsCount": 68
+  },
+  {
+    "slug": "al-usul-ath-thalathah",
+    "file": "al-usul-ath-thalathah.json",
+    "title": "ثلاثة الأصول والقواعد الأربع",
+    "author": "محمد بن عبد الوهاب بن سليمان التميمي",
+    "chaptersCount": 13,
+    "hadithsCount": 18
+  }
+]
