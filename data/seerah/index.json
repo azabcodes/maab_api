@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "ar-raheeq-al-makhtum",
+    "file": "ar-raheeq-al-makhtum.json",
+    "title": "الرحيق المختوم",
+    "author": "صفي الرحمن المباركفوري",
+    "chaptersCount": 292,
+    "hadithsCount": 357
+  },
+  {
+    "slug": "ash-shamail-al-muhammadiyyah",
+    "file": "ash-shamail-al-muhammadiyyah.json",
+    "title": "الشمائل المحمدية",
+    "author": "أبو عيسى محمد بن عيسى الترمذي",
+    "chaptersCount": 57,
+    "hadithsCount": 83
+  },
+  {
+    "slug": "al-fusul-fi-sirat-ar-rasul",
+    "file": "al-fusul-fi-sirat-ar-rasul.json",
+    "title": "الفصول في سيرة الرسول",
+    "author": "عماد الدين أبو الفداء إسماعيل بن عمر بن كثير",
+    "chaptersCount": 86,
+    "hadithsCount": 106
+  },
+  {
+    "slug": "mukhtasar-zad-al-maad",
+    "file": "mukhtasar-zad-al-maad.json",
+    "title": "مختصر زاد المعاد",
+    "author": "محمد بن عبد الوهاب بن سليمان التميمي",
+    "chaptersCount": 82,
+    "hadithsCount": 201
+  },
+  {
+    "slug": "sirah-ibn-hisham",
+    "file": "sirah-ibn-hisham.json",
+    "title": "سيرة ابن هشام",
+    "author": "عبد الملك بن هشام بن أيوب الحميري",
+    "chaptersCount": 1144,
+    "hadithsCount": 1250
+  }
+]

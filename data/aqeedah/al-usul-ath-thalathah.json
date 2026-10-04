@@ -7,91 +7,73 @@
       "title": "ثلاثة الأصول والقواعد الأربع",
       "author": "محمد بن عبد الوهاب بن سليمان التميمي",
       "introduction": ""
-    },
-    "english": {
-      "title": "The Three Principles and The Four Rules",
-      "author": "Muhammad ibn Abd al-Wahhab",
-      "introduction": ""
     }
   },
   "chapters": [
     {
       "id": 1,
       "bookId": 306,
-      "arabic": "المقدمة",
-      "english": ""
+      "arabic": "المقدمة"
     },
     {
       "id": 2,
       "bookId": 306,
-      "arabic": "مقدمة الناشر",
-      "english": ""
+      "arabic": "مقدمة الناشر"
     },
     {
       "id": 3,
       "bookId": 306,
-      "arabic": "[ما يجب على كل مسلم أن يتعلمه]",
-      "english": ""
+      "arabic": "[ما يجب على كل مسلم أن يتعلمه]"
     },
     {
       "id": 4,
       "bookId": 306,
-      "arabic": "الحنيفية ملة إبراهيم هي عبادة الله وحده",
-      "english": ""
+      "arabic": "الحنيفية ملة إبراهيم هي عبادة الله وحده"
     },
     {
       "id": 5,
       "bookId": 306,
-      "arabic": "الأصل الأول: معرفة الرب",
-      "english": ""
+      "arabic": "الأصل الأول: معرفة الرب"
     },
     {
       "id": 6,
       "bookId": 306,
-      "arabic": "أنواع العبادة التي أمر الله بها",
-      "english": ""
+      "arabic": "أنواع العبادة التي أمر الله بها"
     },
     {
       "id": 7,
       "bookId": 306,
-      "arabic": "المرتبة الأولى الإسلام",
-      "english": ""
+      "arabic": "المرتبة الأولى الإسلام"
     },
     {
       "id": 8,
       "bookId": 306,
-      "arabic": "المرتبة الثانية الإيمان",
-      "english": ""
+      "arabic": "المرتبة الثانية الإيمان"
     },
     {
       "id": 9,
       "bookId": 306,
-      "arabic": "المرتبة الثالثة الإحسان",
-      "english": ""
+      "arabic": "المرتبة الثالثة الإحسان"
     },
     {
       "id": 10,
       "bookId": 306,
-      "arabic": "الأصل الثالث معرفة نبيكم محمد صلى الله عليه وسلم",
-      "english": ""
+      "arabic": "الأصل الثالث معرفة نبيكم محمد صلى الله عليه وسلم"
     },
     {
       "id": 11,
       "bookId": 306,
-      "arabic": "شروط الصلاة",
-      "english": ""
+      "arabic": "شروط الصلاة"
     },
     {
       "id": 12,
       "bookId": 306,
-      "arabic": "أركان الصلاة",
-      "english": ""
+      "arabic": "أركان الصلاة"
     },
     {
       "id": 13,
       "bookId": 306,
-      "arabic": "القواعد الأربع",
-      "english": ""
+      "arabic": "القواعد الأربع"
     }
   ],
   "hadiths": [
