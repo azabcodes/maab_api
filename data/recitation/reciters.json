@@ -1,0 +1,13 @@
+{
+  "audioBase": "https://everyayah.com/data",
+  "reciters": [
+    {"id": "alafasy", "nameAr": "مشاري راشد العفاسي", "nameEn": "Mishary Rashid Alafasy", "folder": "Alafasy_128kbps"},
+    {"id": "husary", "nameAr": "محمود خليل الحصري", "nameEn": "Mahmoud Khalil Al-Husary", "folder": "Husary_128kbps"},
+    {"id": "minshawy", "nameAr": "محمد صديق المنشاوي", "nameEn": "Mohamed Siddiq Al-Minshawi", "folder": "Minshawy_Murattal_128kbps"},
+    {"id": "abdul_basit", "nameAr": "عبد الباسط عبد الصمد", "nameEn": "Abdul Basit Abdul Samad", "folder": "Abdul_Basit_Murattal_192kbps"},
+    {"id": "sudais", "nameAr": "عبد الرحمن السديس", "nameEn": "Abdul Rahman Al-Sudais", "folder": "Abdurrahmaan_As-Sudais_192kbps"},
+    {"id": "muaiqly", "nameAr": "ماهر المعيقلي", "nameEn": "Maher Al-Muaiqly", "folder": "MaherAlMuaiqly128kbps"},
+    {"id": "shuraym", "nameAr": "سعود الشريم", "nameEn": "Saud Al-Shuraim", "folder": "Saood_ash-Shuraym_128kbps"},
+    {"id": "dussary", "nameAr": "ياسر الدوسري", "nameEn": "Yasser Al-Dosari", "folder": "Yasser_Ad-Dussary_128kbps"}
+  ]
+}
