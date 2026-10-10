@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "al-jawab-al-kafi",
+    "file": "al-jawab-al-kafi.json",
+    "title": "الداء والدواء (الجواب الكافي)",
+    "author": "ابن قيم الجوزية",
+    "chaptersCount": 180,
+    "hadithsCount": 223
+  },
+  {
+    "slug": "al-wabil-as-sayyib",
+    "file": "al-wabil-as-sayyib.json",
+    "title": "الوابل الصيب من الكلم الطيب",
+    "author": "ابن قيم الجوزية",
+    "chaptersCount": 181,
+    "hadithsCount": 207
+  },
+  {
+    "slug": "uddat-as-sabirin",
+    "file": "uddat-as-sabirin.json",
+    "title": "عدة الصابرين وذخيرة الشاكرين",
+    "author": "ابن قيم الجوزية",
+    "chaptersCount": 45,
+    "hadithsCount": 152
+  },
+  {
+    "slug": "al-fawaid",
+    "file": "al-fawaid.json",
+    "title": "الفوائد",
+    "author": "ابن قيم الجوزية",
+    "chaptersCount": 190,
+    "hadithsCount": 206
+  },
+  {
+    "slug": "at-tawwabin",
+    "file": "at-tawwabin.json",
+    "title": "التوابين",
+    "author": "ابن قدامة المقدسي",
+    "chaptersCount": 136,
+    "hadithsCount": 166
+  },
+  {
+    "slug": "mukhtasar-minhaj-al-qasidin",
+    "file": "mukhtasar-minhaj-al-qasidin.json",
+    "title": "مختصر منهاج القاصدين",
+    "author": "نجم الدين أحمد بن عبد الرحمن بن قدامة المقدسي",
+    "chaptersCount": 202,
+    "hadithsCount": 259
+  }
+]

@@ -47,5 +47,25 @@
   {
     "slug": "dehlawi",
     "file": "forty-dehlawi.json"
+  },
+  {
+    "slug": "riyad",
+    "file": "riyad-as-salihin.json"
+  },
+  {
+    "slug": "bulugh",
+    "file": "bulugh-al-maram.json"
+  },
+  {
+    "slug": "adab",
+    "file": "al-adab-al-mufrad.json"
+  },
+  {
+    "slug": "mishkat",
+    "file": "mishkat-al-masabih.json"
+  },
+  {
+    "slug": "shamail-tirmidhi",
+    "file": "shamail-at-tirmidhi.json"
   }
 ]
